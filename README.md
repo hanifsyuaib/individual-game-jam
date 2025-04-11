@@ -2,9 +2,13 @@
 
 ## Game Developer Information
 Name: Hanif Ibrahim Syuaib
+
 GitHub username: hanifsyuaib
+
 itch.io username: hisio
+
 GitHub Repo: https://github.com/hanifsyuaib/individual-game-jam/
+
 itch.io page: ...
 
 ## Game Title
