@@ -9,18 +9,18 @@ itch.io username: hisio
 
 GitHub Repo: https://github.com/hanifsyuaib/individual-game-jam/
 
-itch.io page: ...
+itch.io page: https://hisio.itch.io/shelter-of-silence
 
 ## Game Title
-Hallways of Silence
+Shelter of Silence
 
 ## Game Brief Description
-Genre: 2D Side-Scroller, Horror, Exploration
+Genre: 2D Side-Scroller, Survival, Horror, Exploration
 Durasi Main: ±10 menit
 Penjelasan:
-Hallways of Silence adalah game platformer pendek bernuansa horor yang mengikuti kisah seorang siswa yang kembali ke sekolahnya pada hari pertama liburan Ketika sore hari menjelang malam hari untuk mengambil barang yang ketinggalan. Sekolah tampak sepi… terlalu sepi. Namun, setelah menjelajah lebih dalam, kenyataan perlahan mulai berubah.
+Shelter of Silence adalah game platformer pendek bernuansa horor dengan latar fantasy-medieval yang mengikuti kisah seorang remaja pria yang baru saja selesai membeli barang dari sebuah toko kecil di tengah hutan. Dalam perjalanan pulang, hujan deras memaksanya mencari tempat berteduh. Ia menemukan sebuah gua misterius dan memutuskan masuk untuk berlindung. Namun, ia segera menyadari bahwa gua tersebut tidak seperti gua biasa.
 
-Awalnya suasana terlihat biasa. Ketika siswa tersebut sudah dekat dengan barang yang ingin diambil, tiba-tiba fenomena aneh mulai muncul seperti suara-suara yang tidak jelas, lorong sekolah tampak berubah, dan sosok asing yang terlihat sekilas dari kejauhan. Semakin jauh siswa tersebut menyusuri lorong keheningan itu, ia melihat hal-hal yang tak biasa dijumpainya sehari-hari. Entitas-entitas mulai muncul di tempat yang seharusnya kosong, disitu ia baru sadar bahwa tidak pernah benar-benar sendirian pada saat masuk ke dalam sekolah.
+Awalnya gua terlihat biasa, namun semakin jauh ia melangkah ke dalam, suasana mulai berubah. Suara-suara aneh terdengar dari kegelapan, dinding gua tampak bergeser, dan sosok asing mulai tampak sekilas. Sang protagonis pun menyadari bahwa ia telah memasuki tempat yang menyembunyikan sesuatu yang jauh lebih menyeramkan dari sekadar kegelapan.
 
 ## Game Control
 | Tombol                    | Aksi                                      |
@@ -34,12 +34,16 @@ Awalnya suasana terlihat biasa. Ketika siswa tersebut sudah dekat dengan barang 
 
 
 ## Game Concept
-Hallways of Silence adalah game eksplorasi horor 2D side-scroller pendek yang berfokus pada suasana, rasa misteri, dan ketegangan psikologis. Pemain mengendalikan seorang siswa yang menyusuri sekolah yang tampak biasa, namun perlahan berubah menjadi tempat yang penuh gangguan visual, suara-suara aneh, dan entitas seperti hantu banyak yang muncul.
+Shelter of Silence adalah game eksplorasi horor 2D side-scroller pendek yang berfokus pada suasana, rasa misteri, dan ketegangan psikologis. Pemain mengendalikan seorang remaja yang berteduh di gua misterius, namun menemukan bahwa tempat tersebut menyimpan keanehan dan kengerian yang perlahan terungkap.
 
-Game ini dibangun diatas beberapa hal yaitu eksplorasi bertahap dimana area sekolah terbuka secara linier namun dengan kejutan visual dan suara yang meningkat seiring waktu. Selain itu, transformasi suasana dimana game secara bertahap berubah dari nuansa normal ke horor, mencerminkan transisi dari kenyataan ke dunia yang tidak wajar. Setiap elemen didesain untuk mendukung atmosfer kesepian, ketidakpastian, dan ketakutan tanpa harus menggunakan jumpscare yang berlebihan.
+Game ini mengusung eksplorasi bertahap di mana lingkungan gua berubah secara dinamis, penuh gangguan visual dan suara-suara yang membingungkan. Tanpa menggunakan jumpscare berlebihan, atmosfer permainan dibangun melalui transformasi suasana, dari realitas yang familiar ke dunia yang tidak wajar.
 
 ## Gameplay Guide
-Pemain memulai permainan di area luar kelas saat sore hari. Tujuan awalnya adalah masuk ke dalam sekolah dan mengambil barang yang tertinggal. Gunakan tombol gerak (A/D atau ←/→) untuk berjalan dan tombol Enter untuk berinteraksi dengan objek penting. Seiring progres permainan, lingkungan akan mulai berubah secara bertahap. Perhatikan suara-suara aneh dan perubahan visual di sekitar. Pemain harus menjelajahi lorong yang sudah berubah bentuk dan menghindari hantu dan monster yang telah memenuhi lorong. Setelah mencapai titik tertentu dalam permainan, kemampuan khusus akan aktif (tekan Ctrl) yang membantu pemain dalam menghindari bahaya dari entitas yang semakin banyak. Game akan berakhir saat pemain berhasil menemukan barang yang dicari dan keluar dari sekolah dengan selamat. Total durasi bermain sekitar 10 menit.
+Pemain memulai permainan di luar gua, ketika hujan mulai turun. Tujuan awalnya adalah menjelajah ke dalam gua untuk mencari tempat berlindung yang aman. Gunakan tombol gerak (A/D atau ←/→) untuk berjalan dan tombol Enter untuk berinteraksi dengan objek seperti obor, batu aneh, atau simbol mistis.
+
+Semakin dalam pemain masuk, suasana akan berubah drastis. Dinding gua mulai bergerak, suara-suara aneh bergema, dan makhluk-makhluk tak terlihat mulai muncul. Pemain harus menjelajahi area gelap ini sambil menghindari entitas yang mengintai. Setelah mencapai titik tertentu, kemampuan khusus akan aktif (tekan Ctrl) yang memungkinkan pemain melihat entitas yang tak kasat mata atau membuka jalur tersembunyi.
+
+Permainan akan berakhir saat pemain berhasil menemukan jalan keluar dari gua dengan selamat, sambil membawa satu barang misterius yang akan mengungkap kebenaran tentang gua tersebut. Total durasi bermain sekitar 10 menit.
 
 ## Screenshot of the Game
 ...
